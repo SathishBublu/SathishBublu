@@ -1,11 +1,22 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Sathish Bublu</h1>
 <h3 align="left">I am a Web Developer, doing full stack things</h3>
 
+<a href="https://twitter.com/_Sati_Dev_">
+  <img align="left" alt="Twitter" width="32px" src="./icons/twitter.svg" />
+</a>
+<a href="mailto:sathishvm37@gmail.com">
+  <img align="left" alt="Gmail" width="32px" src="./icons/gmail.svg" />
+</a>
+<a href="https://t.me/Sati_Dev">
+  <img align="left" alt="Telegram" width="32px" src="./icons/telegram.svg" />
+</a>
+
+<br />
 <br />
 
-[![Twitter](./icons/twitter.svg 'twitter')](https://twitter.com/_Sati_Dev_)
+<!-- [![Twitter](./icons/twitter.svg 'twitter')](https://twitter.com/_Sati_Dev_)
 [![Gmail](./icons/gmail.svg 'gmail')](mailto:sathishvm37@gmail.com)
-[![Telegram](./icons/telegram.svg 'telegram')](https://t.me/Sati_Dev)
+[![Telegram](./icons/telegram.svg 'telegram')](https://t.me/Sati_Dev) -->
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Vuejs
