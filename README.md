@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Sathish Bublu</h1>
-<h3 align="left">I am a Web Developer, doing full stack things</h3>
+<h3 align="left">I am a Web Developer, who like to do some full stack things.</h3>
 
 <a href="https://twitter.com/_Sati_Dev_">
   <img align="left" alt="Twitter" width="32px" src="./icons/twitter.svg" />
