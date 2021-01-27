@@ -29,83 +29,83 @@
 
 <hr />
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
 <table>
   <tr>
-    <td align="center" width="86">
+    <td align="center" width="96">
       <img src="./icons/html5.svg" width="38" height="38" alt="HTML5" />
       <br>HTML5
     </td>
-    <td align="center" width="86">
+    <td align="center" width="96">
         <img src="./icons/css3.svg" width="38" height="38" alt="CSS3" />
       <br>CSS3
     </td>
-    <td align="center" width="86">
+    <td align="center" width="96">
         <img src="./icons/sass.svg" width="38" height="38" alt="SASS" />
       <br>SASS
     </td>
-    <td align="center" width="86">
+    <td align="center" width="96">
         <img src="./icons/bootstrap.svg" width="38" height="38" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="86">
+    <td align="center" width="96">
         <img src="./icons/javascript.svg" width="38" height="38" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" width="86">
+    <td align="center" width="96">
         <img src="./icons/typescript.svg" width="38" height="38" alt="TypeScript" />
       <br>TypeScript
     </td>
-    <td align="center" width="86">
+    <td align="center" width="96">
         <img src="./icons/react.svg" width="38" height="38" alt="React" />
       <br>React
     </td>
-    <td align="center" width="86">
+    <td align="center" width="96">
         <img src="./icons/svelte.svg" width="38" height="38" alt="Svelte" />
       <br>Svelte
     </td>
-    <td align="center" width="86">
+    <td align="center" width="96">
         <img src="./icons/vue-dot-js.svg" width="38" height="38" alt="Vuejs" />
       <br>Vue
     </td>
   </tr>
   <tr>
-    <td align="center" width="86"> 
+    <td align="center" width="96"> 
         <img src="./icons/node-dot-js.svg" width="38" height="38" alt="Nodejs" />
       <br>Node.js
     </td>
-    <td align="center" width="86">
+    <td align="center" width="96">
         <img src="./icons/mongodb.svg" width="38" height="38" alt="MongoDB" />
       <br>MongoDB
     </td>
-    <td align="center"  width="86">
+    <td align="center"  width="96">
         <img src="./icons/postgresql.svg" width="38" height="38" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="86">
+    <td align="center" width="96">
         <img src="./icons/mysql.svg" width="38" height="38" alt="MySQL" />
       <br>MySQL
     </td>
-    <td align="center"  width="86">
+    <td align="center"  width="96">
         <img src="./icons/firebase.svg" width="38" height="38" alt="Firebase" />
       <br>Firebase
     </td>
-    <td align="center"  width="86">
+    <td align="center"  width="96">
         <img src="./icons/git.svg" width="38" height="38" alt="Git" />
       <br>Git
     </td>
-    <td align="center"  width="86">
+    <td align="center"  width="96">
         <img src="./icons/heroku.svg" width="38" height="38" alt="Heroku" />
       <br>Heroku
     </td>
-    <td align="center" width="86">
+    <td align="center" width="96">
         <img src="./icons/netlify.svg" width="38" height="38" alt="Netlify" />
       <br>Netlify
     </td>
-    <td align="center" width="86">
+    <td align="center" width="96">
         <img src="./icons/figma.svg" width="38" height="38" alt="Figma" />
       <br>Figma
     </td>
