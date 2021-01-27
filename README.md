@@ -107,7 +107,7 @@
     </td>
     <td align="center" width="86">
         <img src="./icons/figma.svg" width="38" height="38" alt="Figma" />
-      <br>Prometheus
+      <br>Figma
     </td>
   </tr>
 </table>
@@ -119,7 +119,7 @@
 ![javascript](./icons/npm.svg 'npm')
 ![javascript](./icons/adobexd.svg 'adobexd') -->
 
-### Stats
+<h2 align="left" id="stats">Activity</h2>
 
 <a href="#stats">
 <img align="center" alt="Sathish Github Stats" src="https://github-readme-stats.sathishvm.vercel.app/api?username=SathishBublu&show_icons=true&count_private=true" />
