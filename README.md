@@ -122,9 +122,9 @@
 <h2 align="left" id="stats">Activity</h2>
 
 <a href="#stats">
-<img align="center" alt="Sathish Github Stats" src="https://github-readme-stats.sathishvm.vercel.app/api?username=SathishBublu&show_icons=true&count_private=true" />
+<img align="center" alt="Sathish Github Stats" src="https://github-readme-stats-gamma-peach.vercel.app/api?username=SathishBublu&show_icons=true&count_private=true" />
 </a>
 
 <a href="#stats">
-<img align="center" alt="Sathish top languages" src="https://github-readme-stats.sathishvm.vercel.app/api/top-langs/?username=SathishBublu&layout=compact&langs_count=8" />
+<img align="center" alt="Sathish top languages" src="https://github-readme-stats-gamma-peach.vercel.app/api/top-langs/?username=SathishBublu&layout=compact&langs_count=8" />
 </a>
