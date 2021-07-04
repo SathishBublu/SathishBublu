@@ -1,5 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Sathish Bublu</h1>
-<h3 align="left">I am a Web Developer, who like to do some full stack things. 💚️</h3>
+<h2 align="left">A Tester who curiously testing his life trying to know his true passion. </h2>
+<h4 align="left">A Web Developer ( For now ), who likes to do some full-stack web things. 💚️</h4>
 
 <a href="https://twitter.com/_Sati_Dev_">
   <img align="left" alt="Twitter" width="32px" src="./icons/twitter.svg" />
@@ -18,13 +19,11 @@
 [![Gmail](./icons/gmail.svg 'gmail')](mailto:sathishvm37@gmail.com)
 [![Telegram](./icons/telegram.svg 'telegram')](https://t.me/Sati_Dev) -->
 
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Vuejs
+- 🌱 I’m currently learning Django 🎸️ ( 🐍️ Web Framework)
 - 👯 I’m looking to collaborate on many Open Source Projects 💖
 - 🤔 I’m looking for help with career 🏢
-- 💬 Ask me about anything related to Javascript/Typescript or React/Vue/Express/MongoDB
+- 💬 Ask me about anything related to web development only for now 😅️
 - 📫 How to reach me: [Email me](mailto:sathishvm37@gmail.com)
-- 🐈 I love foxes 🦊️
 - 😄 Pronouns: He/ Him
 
 <hr />
@@ -60,22 +59,30 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="./icons/react.svg" width="38" height="38" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="./icons/svelte.svg" width="38" height="38" alt="Svelte" />
-      <br>Svelte
-    </td>
-    <td align="center" width="96">
         <img src="./icons/vue-dot-js.svg" width="38" height="38" alt="Vuejs" />
       <br>Vue
+    </td>
+    <td align="center" width="96">
+        <img src="./icons/nuxtdotjs.svg" width="38" height="38" alt="Nuxtjs" />
+      <br>Nuxtjs
+    </td>
+    <td align="center" width="96">
+        <img src="./icons/react.svg" width="38" height="38" alt="React" />
+      <br>React
     </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
         <img src="./icons/node-dot-js.svg" width="38" height="38" alt="Nodejs" />
       <br>Node.js
+    </td>
+    <td align="center"  width="96">
+        <img src="./icons/python.svg" width="38" height="38" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="./icons/django.svg" width="38" height="38" alt="Django" />
+      <br>Django
     </td>
     <td align="center" width="96">
         <img src="./icons/mongodb.svg" width="38" height="38" alt="MongoDB" />
@@ -96,14 +103,6 @@
     <td align="center"  width="96">
         <img src="./icons/git.svg" width="38" height="38" alt="Git" />
       <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="./icons/heroku.svg" width="38" height="38" alt="Heroku" />
-      <br>Heroku
-    </td>
-    <td align="center" width="96">
-        <img src="./icons/netlify.svg" width="38" height="38" alt="Netlify" />
-      <br>Netlify
     </td>
     <td align="center" width="96">
         <img src="./icons/figma.svg" width="38" height="38" alt="Figma" />
